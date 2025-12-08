@@ -39,7 +39,7 @@ AFCS는 라이트/다크 테마를 즉시 전환할 수 있습니다.
 
 # 🔧 설치 및 사용
 **다운로드 및 설치**
-1. [릴리스 페이지](https://github.com/Prue0115/Artillery_Fire_Control_System/releases)
+1. [릴리스 페이지](https://github.com/Prue0115/AFCS/releases)
 2. AFCS.exe 실행하세요
 
 **사용 방법**
@@ -57,3 +57,4 @@ AFCS는 라이트/다크 테마를 즉시 전환할 수 있습니다.
 - **M1129**
 - **RM-70**
 - **Siala**
+
