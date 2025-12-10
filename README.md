@@ -2,7 +2,8 @@
 AFCS는 복잡한 탄도 계산을 누구나 쉽게 다룰 수 있도록 설계된 사격 제원 계산 프로그램입니다.
 직관적인 인터페이스에서 장비를 선택하고 값을 입력하면, 필요한 각종 제원이 자동 계산되어 바로 확인할 수 있습니다.
 
-<img width="565" height="610" alt="image" src="https://github.com/user-attachments/assets/024aadf7-f834-4da1-b390-ebb40c16dd79" />
+<img width="900" height="825" alt="image" src="https://github.com/user-attachments/assets/4b61c444-4b9c-47b4-abf2-9e1af9c422d7" />
+
 
 
 # 🎯 주요 애플리케이션 시나리오
@@ -49,7 +50,8 @@ AFCS는 라이트/다크 테마를 즉시 전환할 수 있습니다.
 3. My ALT(m) 사수고도, Target ALT(m) 목표의 고도, Distance (m) 사수-목표물 거리 입력을 합니다.
 4. 계산 버튼을 누르면 사격 제원이 즉시 출력됩니다.
 5. 계산 결과는 장비 기준으로 자동 분류되어 기록(Log) 탭에 저장됩니다.
-<img width="826" height="464" alt="image" src="https://github.com/user-attachments/assets/9f07e0eb-44c2-4d5d-b768-0bc9cb01a309" />
+<img width="1373" height="826" alt="image" src="https://github.com/user-attachments/assets/01044128-3129-474a-bddb-be1dd29cbd52" />
+
 
 
 
@@ -59,6 +61,7 @@ AFCS는 라이트/다크 테마를 즉시 전환할 수 있습니다.
 - **M1129**
 - **RM-70**
 - **Siala**
+
 
 
 
